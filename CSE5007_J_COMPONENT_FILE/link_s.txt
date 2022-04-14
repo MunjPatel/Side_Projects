@@ -1,0 +1,3 @@
+https://www.tutorialspoint.com/statistics/cohen_kappa_coefficient.htm
+
+https://www.kaggle.com/enpingzhao/credit-card-default-prediction/data

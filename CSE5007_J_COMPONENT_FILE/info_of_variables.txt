@@ -1,0 +1,55 @@
+Number Name Description:
+ 
+0 ID Unique number to identify the customer
+
+1 Limit_Bal The quantity of credit provided (NT dollars): this comprises both the individual’s family credit and his/her consumer 
+credit.
+
+2 Sex Gender (1 = male, 2 = female)
+
+3 Education Education level (1 = graduate school, 2 = university, 3 = high school, 0, 4, 5, 6 = others)
+
+4 Marriage Marital status (1 = married, 2 = single, 3 = divorce, 0 = others)
+
+5 Age Age (year)
+
+6 Pay_0
+Starting with repayment status as of September 2005 (0), six variables reflect past payment history.
+(−2 = no consumption, −1 = paid in full, 0 = the use of revolving credit, 1 = payment delay for one month,
+2 = payment delay for two months, …, 8 = payment delay for eight months, 9 = payment delay for 9 months and above)
+
+7 Pay_2 The repayment status in August 2005
+
+8 Pay_3 The repayment status in July 2005
+
+9 Pay_4 The repayment status in June 2005
+
+10 Pay_5 The repayment status in May 2005
+
+11 Pay_6 The repayment status in April 2005
+
+12 Bill_Amt1 Amount of bill statement (NT dollar) in September 2005
+
+13 Bill_Amt2 Amount of bill statement (NT dollar) in August 2005
+
+14 Bill_Amt3 Amount of bill statement (NT dollar) in July 2005
+
+15 Bill_Amt4 Amount of bill statement (NT dollar) in June 2005
+
+16 Bill_Amt5 Amount of bill statement (NT dollar) in May 2005
+
+17 Bill_Amt6 Amount of bill statement (NT dollar) in April 2005
+
+18 Pay_Amt1 Amount paid (NT dollar) in September 2005
+
+19 Pay_Amt2 Amount paid (NT dollar) in August 2005
+
+20 Pay_Amt3 Amount paid (NT dollar) in July 2005
+
+21 Pay_Amt4 Amount paid (NT dollar) in June 2005
+
+22 Pay_Amt5 Amount paid (NT dollar) in May 2005
+
+23 Pay_Amt6 Amount paid (NT dollar) in April 2005
+
+24 default.payment.next.month (0 = not default, 1 = default)
